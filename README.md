@@ -1,2 +1,3 @@
 # JAI
-An Open Source AI Programmed In Python
+An Open Source AI Programmed In Python 
+Made In India JAI HIND
